@@ -99,7 +99,7 @@ body {
     flex-direction: column;
   }
   .main-bottom1 {
-    border-bottom-left-radius: none;
+    border-bottom-left-radius: 0px;
   }
   .main-bottom2 {
     border-bottom-left-radius: 10px;
