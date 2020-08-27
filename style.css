@@ -98,4 +98,10 @@ body {
   .container-bottom {
     flex-direction: column;
   }
+  .main-bottom1 {
+    border-bottom-left-radius: none;
+  }
+  .main-bottom2 {
+    border-bottom-left-radius: 10px;
+  }
 }
